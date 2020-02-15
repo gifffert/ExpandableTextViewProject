@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ExpandableTextView</string>
+
+    <string name="coffee_25_title">Brazilian Coffee</string>
+    <string name="coffee_25_desc">In Brazil, they love coffee, they don\’t just adore it. The average Brazilian drinks up to 12 cups of coffee a day and therefore the technology of making coffee in Brazil is perfect. In Brazil, just a cup of hot coffee is a symbol of respect and hospitality.</string>
+
+    <string name="coffee_26_title">Italian Coffee</string>
+    <string name="coffee_26_desc">Italians love coffee and, by the way, the first espresso machine was invented in Italy. In Italy, there are many recipes for making coffee, but we\’ll stop at the most common one.</string>
+
+    <string name="coffee_27_title">Coffee with pepper</string>
+    <string name="coffee_27_desc">At first glance, this is not a suitable spice for coffee, which can spoil the drink, but it is only at first glance. In fact, pepper gives a highlight to this aromatic and tasty drink and only allows you to open new impressions.</string>
+
+    <string name="coffee_28_title">Spicy Pumpkin Latte</string>
+    <string name="coffee_28_desc">Many coffee lovers in the fall enjoy spicy pumpkin latte, but if you want to save or make this drink out of season, you can easily make it at home. Drink can be made on the stove or in the microwave.</string>
+
+    <string name="coffee_29_title">Indian Coffee</string>
+    <string name="coffee_29_desc">Indian cuisine is famous for its abundance of spices and spices. Coffee drink, popular in this country, is no exception.</string>
+
+
+</resources>
